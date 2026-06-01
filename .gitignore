@@ -1,0 +1,10 @@
+# Fichiers et dossiers à ignorer par git
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+*.env
+*.log
+# Jupyter Notebook checkpoints
+*.nbconvert.ipynb
