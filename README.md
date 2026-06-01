@@ -8,7 +8,9 @@ Ce projet explore des techniques de clustering non supervisé appliquées à un 
 - **Mini_projet_apprentissage_non_supervisé.ipynb** : Notebook principal contenant tout le code, les analyses et les visualisations.
 - **Mini_projet_apprentissage_non_supervise.ipynb** : Copie du notebook avec nom ASCII (compatibilité).
 - **Mini_projet_apprentissage_non_supervise_v2.ipynb** : Deuxième copie canonique du notebook (secours).
+- **github_preview_smoke_test.ipynb** : Notebook ultra-court de test du rendu ipynb.
 - **Mini_projet_apprentissage_non_supervise.md** : Export Markdown du notebook, lisible directement sur GitHub.
+- **Mini_projet_apprentissage_non_supervise_v2.html** : Export HTML statique du notebook v2.
 - **anthems.csv** : Jeu de données utilisé pour l’étude.
 - **requirements.txt** : Liste des dépendances Python nécessaires.
 - **.gitignore** : Fichiers/dossiers à exclure du versionnement.
@@ -22,6 +24,11 @@ Le notebook source reste disponible pour exécution locale :
 
 - Mini_projet_apprentissage_non_supervise.ipynb
 - Mini_projet_apprentissage_non_supervise_v2.ipynb
+- github_preview_smoke_test.ipynb
+
+Export HTML (ouvre dans un navigateur local) :
+
+- Mini_projet_apprentissage_non_supervise_v2.html
 
 Accès alternatif (si la prévisualisation GitHub des ipynb est en erreur) :
 
