@@ -7,6 +7,7 @@ Ce projet explore des techniques de clustering non supervisé appliquées à un 
 ## Contenu du projet
 - **Mini_projet_apprentissage_non_supervisé.ipynb** : Notebook principal contenant tout le code, les analyses et les visualisations.
 - **Mini_projet_apprentissage_non_supervise.ipynb** : Copie du notebook avec nom ASCII (compatibilité).
+- **Mini_projet_apprentissage_non_supervise_v2.ipynb** : Deuxième copie canonique du notebook (secours).
 - **Mini_projet_apprentissage_non_supervise.md** : Export Markdown du notebook, lisible directement sur GitHub.
 - **anthems.csv** : Jeu de données utilisé pour l’étude.
 - **requirements.txt** : Liste des dépendances Python nécessaires.
@@ -20,6 +21,12 @@ Si la prévisualisation des fichiers .ipynb affiche "An error occurred" sur GitH
 Le notebook source reste disponible pour exécution locale :
 
 - Mini_projet_apprentissage_non_supervise.ipynb
+- Mini_projet_apprentissage_non_supervise_v2.ipynb
+
+Accès alternatif (si la prévisualisation GitHub des ipynb est en erreur) :
+
+- nbviewer : https://nbviewer.org/github/Elie224/MLUP---Apprentissage-automatique-non-supervis-/blob/main/Mini_projet_apprentissage_non_supervise.ipynb
+- Colab : https://colab.research.google.com/github/Elie224/MLUP---Apprentissage-automatique-non-supervis-/blob/main/Mini_projet_apprentissage_non_supervise.ipynb
 
 ## Méthodologie
 - Prétraitement des données textuelles
